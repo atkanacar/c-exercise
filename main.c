@@ -1,12 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
 int main() {
-	//kenarlarý seçilen dikdörtgenin alanýný ve çevresini bul
-	// bir çemberin çevresini ve alanýný bul
-	//girilen sayinin faktoriyelini bul
 	
 	int kenar1,kenar2,dikcevre,dikalan,cemberalan,cembercevre,soru;
 	int sayi1,sayi2,sayi3,ort,islem;
